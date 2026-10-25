@@ -1,0 +1,23 @@
+AUSPIFY - NETFLIX COUNTRY-WISE ANALYSIS
+
+Total unique titles analyzed: 8790
+Titles with missing country information: 0
+Countries identified: 86
+
+TOP 10 COUNTRIES:
+United States: 3240 titles
+India: 1057 titles
+United Kingdom: 638 titles
+Pakistan: 421 titles
+Not Given: 287 titles
+Canada: 271 titles
+Japan: 259 titles
+South Korea: 214 titles
+France: 213 titles
+Spain: 182 titles
+
+BUSINESS INSIGHTS:
+1. United States ranks first, with 3240 titles.
+2. Country-level counts include titles associated with multiple countries.
+3. Missing country information may limit geographic analysis.
+4. The Movie vs TV Show chart helps compare content types across leading countries.
